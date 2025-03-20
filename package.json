@@ -1,0 +1,26 @@
+{
+  "name": "biomejs-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Biome.js configuration following best practices",
+  "keywords": [
+    "biomejs",
+    "config",
+    "linter",
+    "formatter"
+  ],
+  "author": "Aliaksandr Pyrkh <alexpyrkh@gmail.com>",
+  "main": "biome.json",
+  "files": [
+    "biome.json"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apyrkh/biomejs-config.git"
+  },
+  "homepage": "https://github.com/apyrkh/biomejs-config#readme",
+  "bugs": {
+    "url": "https://github.com/apyrkh/biomejs-config/issues"
+  }
+}
