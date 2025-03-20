@@ -1,4 +1,4 @@
-# Biome.js
+# Biome.js config
 
 ## Publishing
 
